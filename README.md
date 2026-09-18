@@ -1,91 +1,103 @@
 <div align="center">
-  
-  # Hi there, I'm Miggy! 👋
-  
-  <h3>Aspiring Backend AI Engineer | BSIT Student @ Jose Rizal University</h3>
-  <p>
-    I build intelligent systems that combine <b>Robust Backend Engineering</b> with <b>State-of-the-Art AI</b>. 
-    I specialize in moving beyond simple API calls, focusing on RAG (Retrieval-Augmented Generation), 
-    Model Fine-Tuning, and Neuro-Symbolic architectures.
-  </p>
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_%26_Fine--Tuning-FF5722?style=for-the-badge" />
-  
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Miggy+Rivera+%F0%9F%91%8B;Aspiring+Backend+AI+Engineer;RAG+%7C+Fine-Tuning+%7C+Neuro-Symbolic+AI" alt="Typing SVG" />
+
+**BSIT Student @ Jose Rizal University** &nbsp;•&nbsp; 🇵🇭 Philippines
+
+<a href="https://www.linkedin.com/in/miggy-rivera-b20047296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/RaiveRivera"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Notion_Campus_Leader_2026-000000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Student_Builder_Group-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+
 </div>
 
-<br />
+---
 
-## 🚀 Featured AI Engineering Projects
+### 👨‍💻 About
 
-### 🧠 **Rule VII - AI Architect**
-> *A specialized Architectural Mentor AI using RAG & Fine-Tuned Llama 3.*
+I build intelligent systems that pair **robust backend engineering** with **state-of-the-art AI** — going past simple API calls into RAG pipelines, model fine-tuning, and neuro-symbolic architectures.
 
-* **The Tech:** Fine-tuned **Llama 3.1 8B** (using Unsloth/LoRA) combined with a **RAG pipeline** (LlamaParse + Supabase pgvector).
-* **The Engineering:** Implemented a custom ingestion script to parse PDF building codes into vector embeddings, allowing the AI to cite specific legal codes while maintaining a "Senior Architect" persona through fine-tuning.
-* **Stack:** Python, FastAPI, RunPod, Next.js.
+- 🏗️ Currently fine-tuning **Llama 3.1 8B** for architectural code compliance (*Rule VII*)
+- 🌊 Building **Hydra**, a neuro-symbolic corruption-detection system
+- 📚 Scaling custom RAG pipelines with **pgvector + Supabase**
+- 🚀 Exploring multi-agent systems with **LangChain**
 
-### 🌊 **Hydra - HackTheFlood 2025**
-> *Neuro-Symbolic AI system for detecting corruption in flood control projects.*
+---
 
-* **The Tech:** **Deterministic RAG** using Google Gemini + Sentinel Hub Satellite Imagery.
-* **The Engineering:** Built a "Hybrid Brain" architecture. Uses strict statistical baselines (symbolic logic) to ground the LLM, preventing hallucinations when analyzing project costs. Features a tiered validation system (Python logic + AI judgment).
-* **Stack:** Python, Flask, Google Vertex AI/Gemini, React.
+### 🌟 Leadership
 
-<br />
+| Role | Organization |
+| :--- | :--- |
+| **Vice President — External** | AWS Student Builder Group – Jose Rizal University |
+| **Department Lead — Software & Web Development** | Skill Builder - AWS Student Builder Group – Jose Rizal University  |
+| **Notion Campus Leader 2026** | Notion |
 
-## 🛠️ Technical Arsenal
+I lead external partnerships for AWS SBG JRU and head the Software & Web Development department, mentoring student builders and shipping real production projects with them. As a Notion Campus Leader, I run workshops on Notion and AI for the student community.
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Rule VII — AI Architect
+*Architectural mentor AI using RAG + fine-tuned Llama 3*
+
+Fine-tuned **Llama 3.1 8B** (Unsloth/LoRA) on top of a **RAG pipeline** (LlamaParse + Supabase pgvector). A custom ingestion script parses PDF building codes into vector embeddings so the model cites specific legal codes while holding a "Senior Architect" persona.
+
+`Python` `FastAPI` `RunPod` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌊 Hydra — HackTheFlood 2025
+*Neuro-symbolic AI for detecting flood-control project corruption*
+
+**Deterministic RAG** with Google Gemini + Sentinel Hub satellite imagery. A "hybrid brain" grounds the LLM in strict statistical baselines to prevent hallucinated cost analysis, backed by tiered validation (Python logic + AI judgment).
+
+`Python` `Flask` `Vertex AI` `React`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,react,fastapi,flask,supabase,postgres,gcp,tailwind,git,docker&perline=12" />
+
+</div>
 
 | Domain | Technologies |
 | :--- | :--- |
 | **Backend** | Python (FastAPI, Flask), Java, REST APIs |
-| **AI / ML** | RAG (Vector & Deterministic), Fine-Tuning (PEFT/LoRA), Llama 3, Gemini, LangChain |
+| **AI / ML** | RAG (vector & deterministic), Fine-tuning (PEFT/LoRA), Llama 3, Gemini, LangChain |
 | **Data & Cloud** | PostgreSQL (pgvector), Supabase, Google Cloud Platform |
 | **Frontend** | React.js, TypeScript, Tailwind CSS, HTML5 |
 
-<br />
+---
 
-## 📊 Current Focus
+### 📊 GitHub Stats
 
 <div align="center">
 
-```text
-🎯 Building Production-Grade AI Systems
-🔥 Fine-Tuning LLMs with Real-World Data  
-⚡ Scaling RAG Pipelines for Enterprise Use
-🌐 Exploring Neuro-Symbolic AI Architectures
-```
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=migsrvr&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=migsrvr&theme=tokyonight" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rivera-Dev-01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migsrvr&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=migsrvr&theme=tokyonight&utcOffset=8" />
 
 </div>
 
-### 💡 What I'm Working On
-
-- 🏗️ **Rule VII**: Fine-tuned Llama 3.1 8B for architectural code compliance
-- 🌊 **Hydra AI**: Neuro-symbolic corruption detection system
-- 📚 Building custom RAG pipelines with pgvector & Supabase
-- 🚀 Exploring multi-agent AI systems with LangChain
-
-<br />
+---
 
 <div align="center">
-  <h3>LET'S CONNECT!</h3> 
-  <a href="https://www.facebook.com/RaiveRivera">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp; 
-  <a href="https://www.linkedin.com/in/miggy-rivera-b20047296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+**Let's build something intelligent together.**
+
 </div>
