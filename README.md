@@ -1,55 +1,56 @@
+<img src="https://raw.githubusercontent.com/migsrvr/migsrvr/main/makima.gif" width="100%" alt="Makima header banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=4" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&height=90&lines=Hey%2C+I'm+Miggy.;Software+Engineering+%C3%97+AI+Engineering;Building+products.+Connecting+systems." alt="Hey, I'm Miggy. Software Engineering × AI Engineering. Building products. Connecting systems." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E11D48&center=true&vCenter=true&width=650&height=90&lines=Hey%2C+I'm+Miggy.;Software+Engineering+%C3%97+AI+Engineering;Signing+contracts+with+code.;Building+products.+Connecting+systems." alt="Hey, I'm Miggy. Software Engineering × AI Engineering. Building products. Connecting systems." />
 
-**From idea to shipped product, with Artificial Intelligence in the mix.**
+**⛓️ From idea to shipped product, with Artificial Intelligence on a leash. ⛓️**
 
-BSIT @ José Rizal University · IT Intern @ Top Realty Corporation · Philippines
+BSIT @ José Rizal University · IT Intern @ Top Realty Corporation · Philippines 🇵🇭
 
-<a href="https://www.miggyrivera.tech/"><img src="https://img.shields.io/badge/Portfolio-60A5FA?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/miggy-rivera-b20047296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:rivera.dev.miggy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/RaiveRivera"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.miggyrivera.tech/"><img src="https://img.shields.io/badge/Portfolio-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/miggy-rivera-b20047296/"><img src="https://img.shields.io/badge/LinkedIn-9F1239?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rivera.dev.miggy@gmail.com"><img src="https://img.shields.io/badge/Email-BE123C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/RaiveRivera"><img src="https://img.shields.io/badge/Facebook-881337?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
 <img src="https://img.shields.io/badge/Notion_Campus_Leader_2026-18181B?style=flat-square&logo=notion&logoColor=white" alt="Notion Campus Leader 2026" />
-<img src="https://img.shields.io/badge/AWS_Student_Builder-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Student Builder" />
-
-<br />
-
-<kbd><a href="#a-little-about-me">About</a></kbd> &nbsp;
-<kbd><a href="#things-ive-built">Projects</a></kbd> &nbsp;
-<kbd><a href="#experience">Experience</a></kbd> &nbsp;
-<kbd><a href="#my-build-kit">Stack</a></kbd> &nbsp;
-<kbd><a href="#building-with-people-too">Community</a></kbd> &nbsp;
-<kbd><a href="#credentials">Credentials</a></kbd>
+<img src="https://img.shields.io/badge/AWS_Student_Builder-18181B?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Student Builder" />
+<img src="https://komarev.com/ghpvc/?username=migsrvr&label=Devils+Watching&color=e11d48&style=flat-square" alt="Profile views" />
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## A little about me
+## ⛓️ The Contract
+
+> *Every contract has terms. Here are mine.*
 
 I work at the intersection of **software engineering and AI engineering**: building products, engineering backends, and integrating systems.
 
-I enjoy taking ideas beyond the prototype: connecting frontend, backend, data, and AI into something people can actually use. Sometimes that means shipping an API. Sometimes it means building a retrieval pipeline or fine-tuning a model. Sometimes it means leading a team of ten developers to launch a community's website.
+I enjoy taking ideas beyond the prototype: connecting frontend, backend, data, and AI into something people can actually use. Sometimes that means shipping an API. Sometimes it means building a retrieval pipeline or fine-tuning a model. Sometimes it means leading a squad of ten developers to launch a community's website.
 
 Currently an **IT Intern at Top Realty Corporation**, studying **BSIT at José Rizal University**, and building alongside student communities.
 
-- **Building** internal workflow tools: an IT ticketing system and a QR attendance-scanner prototype.
-- **Fine-tuning** Llama 3.1 8B for architectural code compliance.
-- **Developing** Hydra, a neuro-symbolic corruption-detection system.
-- **Working with** RAG pipelines and hybrid search on Supabase + pgvector.
-- **Exploring** multi-agent workflows with LangChain.
-- **Shipping** web, mobile, and desktop apps for students, nurses, and communities.
+```yaml
+current_missions:
+  building:     IT ticketing system + QR attendance-scanner prototype
+  fine_tuning:  Llama 3.1 8B for architectural code compliance
+  developing:   Hydra, a neuro-symbolic corruption-detection system
+  working_with: RAG pipelines + hybrid search on Supabase + pgvector
+  exploring:    multi-agent workflows with LangChain
+  shipping:     web, mobile & desktop apps for students, nurses, communities
+```
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## Things I’ve built
+## 🩸 Devils I've Hunted
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Rule VII</h3>
+<h3>📐 Rule VII</h3>
 <p><strong>An AI architectural mentor.</strong></p>
 
 <p>Pairs a fine-tuned <strong>Llama 3.1 8B</strong> model with retrieval over building-code documents, connecting architectural guidance to relevant code provisions.</p>
@@ -77,7 +78,7 @@ Document ingestion · RAG · Hybrid search · Fine-tuning · Code citations</p>
 </td>
 <td width="50%" valign="top">
 
-<h3>Hydra</h3>
+<h3>🐉 Hydra</h3>
 <p><strong>A hybrid brain for public accountability.</strong></p>
 
 <p>Built for <strong>HackTheFlood 2025</strong> to flag potential corruption in flood-control projects using data validation, geocoding, statistical checks, AI-assisted analysis, and satellite imagery.</p>
@@ -104,7 +105,7 @@ Neuro-symbolic AI · Data integration · Validation · Geospatial evidence</p>
 <tr>
 <td width="50%" valign="top">
 
-<h3>AWS SBG–JRU Website</h3>
+<h3>☁️ AWS SBG–JRU Website</h3>
 <p><strong>The home of a student tech community.</strong></p>
 
 <p>Registration, events, and an admin review workflow for the AWS Student Builder Group at JRU. I led <strong>10 developers</strong>, built most of the platform, and handled code reviews and mentoring.</p>
@@ -126,10 +127,10 @@ Registration flow · Admin review dashboard · Automated email notifications</p>
 </td>
 <td width="50%" valign="top">
 
-<h3>Care Cures</h3>
+<h3>💉 Care Cures</h3>
 <p><strong>Bilingual health info for nursing students.</strong></p>
 
-<p>A freelance, solo full-stack build for nursing students at the University of Makati, covering the Philippines’ <strong>20 priority diseases</strong> in both English and Tagalog.</p>
+<p>A freelance, solo full-stack build for nursing students at the University of Makati, covering the Philippines' <strong>20 priority diseases</strong> in both English and Tagalog.</p>
 
 <p><strong>The engineering</strong><br />
 Full-stack app · Bilingual content · Solo delivery</p>
@@ -150,7 +151,7 @@ Full-stack app · Bilingual content · Solo delivery</p>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Hima-Paiflow</h3>
+<h3>💳 Hima-Paiflow</h3>
 <p><strong>Student budgeting meets NFC checkout.</strong></p>
 
 <p>A hackathon mobile app with <strong>Safe-to-Spend</strong> budgeting, Groq-powered spending advice, and NFC checkout on the Stellar testnet. I handled the full-stack mobile build.</p>
@@ -173,7 +174,7 @@ Mobile full-stack · AI advice · Testnet payment flows</p>
 </td>
 <td width="50%" valign="top">
 
-<h3>SESSION</h3>
+<h3>⏳ SESSION</h3>
 <p><strong>Focus, planned with AI.</strong></p>
 
 <p>Tasks, focus sessions, and AI planning in one app, available on both web and desktop.</p>
@@ -197,7 +198,7 @@ Cross-platform app · AI planning · Desktop packaging</p>
 </table>
 
 <details>
-<summary><strong>More projects</strong> · Pax Virentia, Mediseena, AWS Photobooth</summary>
+<summary><strong>🗂️ More case files</strong> · Pax Virentia, Mediseena, AWS Photobooth</summary>
 
 <br />
 
@@ -209,11 +210,11 @@ Cross-platform app · AI planning · Desktop packaging</p>
 
 </details>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## Experience
+## 📜 Field Record
 
-| Role | Where | When |
+| Rank | Assigned to | Tour of duty |
 | :--- | :--- | :--- |
 | **IT Intern** | Top Realty Corporation | Oct 2026 – Present |
 | **Backend AI Engineer Intern** | FlyRank AI | Jun – Sep 2026 |
@@ -221,19 +222,19 @@ Cross-platform app · AI planning · Desktop packaging</p>
 
 At **Top Realty**, I build company workflow tools, including an IT ticketing system and a QR attendance-scanner prototype for HR and interns. At **FlyRank AI**, I completed a self-paced internship in AI and backend engineering through hands-on system-building projects. As a **freelancer**, I've delivered two applications for nursing and engineering students, including Care Cures as the sole full-stack developer.
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## My build kit
+## 🪚 Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,nodejs,express,fastapi,flask,postgres,supabase,sqlite,gcp,docker,git,tauri,vercel&perline=6" alt="Python, JavaScript, TypeScript, Java, React, Next.js, Node.js, Express, FastAPI, Flask, PostgreSQL, Supabase, SQLite, Google Cloud, Docker, Git, Tauri, Vercel" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,nodejs,express,fastapi,flask,postgres,supabase,sqlite,gcp,docker,git,tauri,vercel&perline=6&theme=dark" alt="Python, JavaScript, TypeScript, Java, React, Next.js, Node.js, Express, FastAPI, Flask, PostgreSQL, Supabase, SQLite, Google Cloud, Docker, Git, Tauri, Vercel" />
 
 </div>
 
 <br />
 
-| Layer | What I work with |
+| Weapon class | What I wield |
 | :--- | :--- |
 | **Backend & integrations** | Python, FastAPI, Flask, Node.js, Express, Java, REST APIs |
 | **AI engineering** | RAG, hybrid search, PEFT / LoRA, Unsloth, Llama, Gemini, Groq, LangChain |
@@ -241,11 +242,11 @@ At **Top Realty**, I build company workflow tools, including an IT ticketing sys
 | **Frontend & mobile** | React, Next.js, TypeScript, Tailwind CSS, React Native, Expo |
 | **Desktop & delivery** | Tauri, Git, Docker, Vercel, Railway |
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## Building with people, too
+## 🐕 My Division
 
-| Role | Community |
+| Role | Squad |
 | :--- | :--- |
 | **Vice President, External Affairs** | AWS Student Builder Group · José Rizal University |
 | **Web & Software Development Lead** | AWS Student Builder Group · JRU |
@@ -253,9 +254,9 @@ At **Top Realty**, I build company workflow tools, including an IT ticketing sys
 
 I lead external partnerships and formal correspondence, mentor student developers, review code, and build production projects with fellow student builders. I also run **Notion and AI workshops** for the student community.
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## Credentials
+## 🎖️ Hunter Licenses
 
 <div align="center">
 
@@ -270,26 +271,28 @@ I lead external partnerships and formal correspondence, mentor student developer
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:881337,50:E11D48,100:881337&height=3" width="100%" />
 
-## Behind the commits
+## 🔴 Behind the Commits
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=migsrvr&theme=tokyonight" alt="GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migsrvr&theme=tokyonight" alt="Most committed languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=migsrvr&theme=radical" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migsrvr&theme=radical" alt="Most committed languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=migsrvr&bg_color=0d0d0d&color=fda4af&line=e11d48&point=ffffff&area=true&area_color=e11d48&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
-
-<br />
 
 ---
 
 <div align="center">
 
-### Build useful things. Keep experimenting. Ship the code.
+### ⛓️ Build useful things. Keep experimenting. Ship the code. ⛓️
 
-Have a product idea or an integration challenge?  
-**[Let’s build something together →](https://www.linkedin.com/in/miggy-rivera-b20047296/)**
+Have a product idea or an integration challenge? Let's make a contract.
+**[Let's build something together →](https://www.linkedin.com/in/miggy-rivera-b20047296/)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:881337,100:E11D48&height=110&section=footer" width="100%" />
 
 </div>
